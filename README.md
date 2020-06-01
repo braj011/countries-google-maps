@@ -12,4 +12,7 @@ I managed to find a list of countries and capital cities online, but not flags -
 
 At this point, I decided to automate the process and built this scraper to do so.
 
-See the final-product.png to see what the sheet looks like :) 
+See the final view (final-product.png) below
+
+![alt text](https://github.com/braj011/countries-google-maps/blob/master/final-product.png?raw=true)
+
